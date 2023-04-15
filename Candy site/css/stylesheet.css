@@ -1,0 +1,24 @@
+#menu {
+  align-items: center;
+}
+
+section {
+  background-image: url(/assets/images/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mb-1 {
+  text-align: center;
+}
+
+body {
+  background-color: red;
+}
+
+.nav-link {
+  color: red;
+}
+
+
+
